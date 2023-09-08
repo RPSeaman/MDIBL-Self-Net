@@ -1,5 +1,11 @@
 # MDIBL-Self-Net
 
+### Note
+This code was taken from the Ning et. al. paper: Deep self-learning 
+enables fast, high-fidelity isotropic resolution restoration for 
+volumetric fluorescence microscopy 
+(https://www.nature.com/articles/s41377-023-01230-2#Sec34)
+
 ### Software
 
 - Python 3.9 (tested on)
